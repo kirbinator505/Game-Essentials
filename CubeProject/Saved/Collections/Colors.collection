@@ -1,0 +1,11 @@
+FileVersion:2
+Type:Static
+Guid:0CBE8517-4F19-1203-993D-02AD68EE447C
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/FirstPersonBP/blue.blue
+/Game/FirstPersonBP/green.green
+/Game/FirstPersonBP/orange.orange
+/Game/FirstPersonBP/purple.purple
+/Game/FirstPersonBP/red.red
+/Game/FirstPersonBP/yellow.yellow
