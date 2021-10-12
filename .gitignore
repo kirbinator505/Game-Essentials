@@ -72,9 +72,12 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
 
 Binaries
 DerivedDataCache
 Intermediate
 Saved
 StarterContent
+=======
+>>>>>>> parent of 23f70cb... had to delete repo cause reasons, added git ignore finally
